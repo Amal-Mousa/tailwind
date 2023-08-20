@@ -18,7 +18,7 @@ const RootLayout = ({
   return (
     <html lang="en">
       <body className={poppins.className}>
-        <NavBar/>
+        {/* <NavBar/> */}
         {children}
         </body>
     </html>
